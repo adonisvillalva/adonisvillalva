@@ -1,4 +1,4 @@
-### Hi, I'm Adonis (Aka LichKiller) 👨‍💻🎮💻
+### Hi, I'm Adonis (a.k.a. LichKiller) 👨‍💻🎮💻
 
 <!--
 **EnrageStudio/EnrageStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
