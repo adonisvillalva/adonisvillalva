@@ -30,7 +30,7 @@
       public static void Main()
       {
           string[] languages  = {"C#", "C++", "Javascript", "HTML", "CSS"};
-          string[] tools = {"React", ".net core", ".net framework"};
+          string[] tools = {"React", ".net core", ".net framework", "Git"};
           string[] videogameEngine = {"Unity3D", "Unreal Engine 4"};
       }
     }
