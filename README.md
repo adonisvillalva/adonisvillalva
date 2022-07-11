@@ -7,7 +7,7 @@
   <img align="left" alt="EnrageStudio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/EnrageStudio">
-  <img align="left" alt="EnrageStudio's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="EnrageStudio's Facebook" width="22px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Facebook_icon-icons.com_66805.png" />
 </a>
 <a href="https://twitter.com/EnrageStudio">
   <img align="left" alt="EnrageStudio's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
