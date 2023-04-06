@@ -4,19 +4,14 @@
 
 ## You can find me 🌎:
 <a href="https://www.linkedin.com/in/adonis-villalva/">
-  <img align="left" alt="EnrageStudio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/EnrageStudio">
-  <img align="left" alt="EnrageStudio's Facebook" width="22px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Facebook_icon-icons.com_66805.png" />
+<a href="https://twitter.com/adonis_villalva">
+  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://twitter.com/EnrageStudio">
-  <img align="left" alt="EnrageStudio's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.instagram.com/adonis_villalva_dev/">
+  <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/60354803/125121865-2f7a1180-e0ba-11eb-85ee-0b6a3f3a66da.png" />
 </a>
-<a href="https://www.instagram.com/enragestudio/">
-  <img align="left" alt="EnrageStudio's Instagram" width="22px" src="https://user-images.githubusercontent.com/60354803/125121865-2f7a1180-e0ba-11eb-85ee-0b6a3f3a66da.png" />
-</a>
-<a href="http://www.enragestudio.com/">
-  <img align="left" alt="EnrageStudio's Blog" width="22px" src="https://user-images.githubusercontent.com/60354803/125122110-88e24080-e0ba-11eb-8d2d-d8471329529c.png" />
 </a>
 </br>
 
