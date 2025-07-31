@@ -41,3 +41,5 @@ Full-stack developer & cloud solutions architect. Passionate about building secu
 </br>
   <img src="https://github-readme-stats.vercel.app/api?username=adonisvillalva&show_icons=true&theme=gotham" alt="GitHub Stats" />
 </p>
+
+0{(9g09#u}?4&"Nd0]
