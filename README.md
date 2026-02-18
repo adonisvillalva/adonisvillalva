@@ -31,13 +31,3 @@ Full-stack developer & cloud solutions architect. Passionate about building secu
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?logo=azuredevops&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonisvillalva&layout=compact&theme=gotham" alt="Top Languages" />
-</br>
-  <img src="https://github-readme-stats.vercel.app/api?username=adonisvillalva&show_icons=true&theme=gotham" alt="GitHub Stats" />
-</p>
